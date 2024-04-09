@@ -5,10 +5,10 @@ $(function () {
         if (this.hash !== "") {
             event.preventDefault();
 
-            var gato = this.hash;
+            var ir_a = this.hash;
 
             $("html, body").animate({
-                scrollTop: $(gato).offset().top
+                scrollTop: $(ir_a).offset().top
             }, 800);
         }
     });
