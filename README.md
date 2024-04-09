@@ -1,5 +1,12 @@
 # Prueba final Módulo 2 Bootcamp Front End Trainee
 
+## URl's relevantes del proyecto
+- URL del repositorio
+    - https://github.com/Saitraru/viajes-chile-infocal-2024
+- URL de GitHubPage
+    - https://saitraru.github.io/viajes-chile-infocal-2024/
+
+
 ## Descripción
 
 Crear un landing page, que tenga un diseño atractivo e innovador, utilizando los conocimientos adquiridos a través de las distintas unidades.
